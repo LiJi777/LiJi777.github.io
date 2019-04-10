@@ -1,0 +1,37 @@
+---
+layout:     post
+title:      今日计划
+subtitle:   关于下午的一点小计划
+date:       2017-10-28
+author:     LJ
+header-img: img/post-bg-re-vs-ng2.jpg
+catalog: true
+tags:
+    - Plan
+---
+01、i.e. 是 拉丁语 id est 的缩写，意思是“那就是说、换句话说”，等同于that is / in other，用来进一步解释前面所表明的观点。
+
+02、e.g. 是拉丁语 exempli gratia 的缩写，意思是“举个例子，比如”，等同于for example、 for the sake of example、such as。
+
+03、区分“ i.e.”和“e.g.”有一个简单又好记的办法：
+
+i.e.=in other words / that is
+
+e.g. 和 i.e. 都是带标点符号的，在正式的写作中e.g. 和 i.e. 作为插入语，在句子中前后都有 “,” 的：
+
+04、e.g. 和 i.e.该怎么读呢?
+
+关于读音——
+
+i.e. 直接读 that is
+
+e.g. 直接读 for example
+
+
+```
+https://www.sohu.com/a/208174716_662716
+```
+
+- `_config.yml` 全局配置文件
+- `_posts`	放置博客文章的文件夹
+- `img`	存放图片的文件夹
